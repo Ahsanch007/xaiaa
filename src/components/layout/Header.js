@@ -84,9 +84,9 @@ export const Header = () => {
                                                 boxShadow: '0 7px 11px 0 rgba(0,0,0,.2)'
                                             }}>
                                             {item.subMenu.map((subItem) => (
-                                                <Link href={subItem.path}>
+                                                <Link key={subItem.id} href={subItem.path}>
                                                     
-                                                <li key={subItem.id}>{subItem.name}</li>
+                                                <li >{subItem.name}</li>
                                                 </Link>
                                             ))}
                                         </ul>
