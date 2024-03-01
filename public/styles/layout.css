@@ -1,0 +1,130 @@
+/* ------------------------------ Font-Family CSS ---------------------------*/
+
+/* Poppins-Bold */
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../assets/font/Poppins/Poppins-Bold.ttf');
+}
+
+.poppins-bold {
+    font-family: 'Poppins-Bold';
+}
+
+/* Poppins-ExtraBold */
+@font-face {
+    font-family: 'Poppins-ExtraBold';
+    src: url('../assets/font/Poppins/Poppins-ExtraBold.ttf');
+}
+
+.poppins-extra-bold {
+    font-family: 'Poppins-ExtraBold';
+}
+
+/* Poppins-Light */
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('../assets/font/Poppins/Poppins-Light.ttf');
+}
+
+.poppins-light {
+    font-family: 'Poppins-Light';
+}
+
+/* Poppins-Medium */
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../assets/font/Poppins/Poppins-Medium.ttf');
+}
+
+.poppins-medium {
+    font-family: 'Poppins-Medium';
+}
+
+/* Poppins-Regular */
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../assets/font/Poppins/Poppins-Regular.ttf');
+}
+
+.poppins-regular {
+    font-family: 'Poppins-Regular';
+}
+
+/* Poppins-UltraLight */
+@font-face {
+    font-family: 'Poppins-UltraLight';
+    src: url('../assets/font/Poppins/Poppins-ExtraLight.ttf');
+}
+
+.poppins-ultra-light {
+    font-family: 'Poppins-UltraLight';
+}
+
+/* Poppins-SemiBold */
+@font-face {
+    font-family: 'Poppins-Semibold';
+    src: url('../assets/font/Poppins/Poppins-SemiBold.ttf');
+}
+
+.poppins-semi-bold {
+    font-family: 'Poppins-Semibold';
+}
+
+/* Poppins-Thin */
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('../assets/font/Poppins/Poppins-Thin.ttf');
+}
+
+.poppins-thin {
+    font-family: 'Poppins-Thin';
+}
+
+
+
+
+/* roboto font  */
+
+/* Poppins-Bold */
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../assets/font/Roboto/Roboto-Bold.ttf');
+}
+
+.roboto-bold {
+    font-family: 'Roboto-Bold';
+}
+
+
+/* roboto-Light */
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url('../assets/font/Roboto/Roboto-Light.ttf');
+}
+
+.roboto-light {
+    font-family: 'Roboto-Light';
+}
+
+/* roboto-Medium */
+@font-face {
+    font-family: 'roboto-Medium';
+    src: url('../assets/font/Roboto/Roboto-Medium.ttf');
+}
+
+.roboto-medium {
+    font-family: 'Roboto-Medium';
+}
+
+/* roboto-Regular */
+@font-face {
+    font-family: 'roboto-Regular';
+    src: url('../assets/font/Roboto/Roboto-Regular.ttf');
+}
+
+.roboto-regular {
+    font-family: 'Roboto-Regular';
+}
+
+ 
+
