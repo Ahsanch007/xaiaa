@@ -11,7 +11,7 @@ export const ServicesComponent = () => {
       }, []);
     return (
         <div className='bg-[#dee4ec]  '>
-            <div className="container mx-auto py-[50px]">
+            <div className="container mx-auto py-[50px] px-[20px]">
                 <div className="title pb-3">
                     <h1 className='poppins-semi-bold text-[36px] md:text-[48px] text-[#323335]'>
                         Service and Conditions
