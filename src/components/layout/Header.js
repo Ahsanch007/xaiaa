@@ -2,6 +2,7 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation';
 import React, { useState } from 'react'
+import Drawer from '../ui/Drawer';
 
 
 
@@ -97,12 +98,16 @@ export const Header = () => {
 
                     </div>
                     <div>
-                        <Link href='/contact' >
+                        <Link href='/contact' className='hidden md:block' >
 
                             <button className='px-[30px] py-[10px] text-white bg-black rounded-[5px]'>
                                 Xaia
                             </button>
                         </Link>
+                        <div className="md:hidden">
+
+                        <Drawer />
+                        </div>
 
                     </div>
                 </div>

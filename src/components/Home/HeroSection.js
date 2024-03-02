@@ -42,13 +42,13 @@ export const HeroSection = () => {
             <div className="bg-[#dee4ec]">
             <div className="container py-[60px] ">
                 <div className="text-center">
-                    <h1 className='text-[36px] text-black font-bold poppins-bold'>
+                    <h1 className='text-[36px] text-[#323335] font-bold poppins-bold'>
                     Customer Support 
                     </h1>
-                    <p className='py-3 text-[18px] text-black poppins-light  leading-[1.6]'>
+                    <p className='py-3 text-[18px] text-[#323335] poppins-light  leading-[1.6]'>
                     To serve our customers we provide advice about synthesis strategies, difficult and complex <br /> peptides, peptides up to 100 AA, several disulfide bridges and fluorescent markers in <br /> peptides.
                     </p>
-                    <p className='py-3 text-[18px] text-black poppins-light  leading-[1.6]'>
+                    <p className='py-3 text-[18px] text-[#323335] poppins-light  leading-[1.6]'>
                     Please feel free to ask for a quote or mail an inquiry to <span className='underline'>info@xaia.nu</span> 
                     </p>
                 </div>
